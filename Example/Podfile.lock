@@ -1,0 +1,14 @@
+PODS:
+  - NNHTMLParser (0.1.0)
+
+DEPENDENCIES:
+  - NNHTMLParser (from `../`)
+
+EXTERNAL SOURCES:
+  NNHTMLParser:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NNHTMLParser: 11a9078d20369024cd70c4c7e10f891bf3a6c2d2
+
+COCOAPODS: 0.34.4
